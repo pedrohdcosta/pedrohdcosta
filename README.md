@@ -1,6 +1,3 @@
-<img aling="right" alt="Coding" widht="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fneo-tokyo-wallpapers&psig=AOvVaw3bq1k2yMardmY7tsyR7yRX&ust=1674927812450000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD-hLym6PwCFQAAAAAdAAAAABAQ](https://wallpapercave.com/wp/wp7076333.jpg)">
-
-
 ### Hi there 👋
 
 <!--
@@ -17,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohdcosta)](https://github.com/anuraghazra/github-readme-stats)

@@ -5,7 +5,7 @@
 <main>
 
   - 🔭 I’m currently working at Catolica de Santa Catarina
-  - 🌱 I’m currently learning C#
+  - 🌱 I’m currently learning node.js
 
 </main>
 
@@ -19,6 +19,7 @@
   <img align="center" height="40" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="center" height="40" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
   <img align="center" height="40" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">  
+  <img align="center" height="40" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
 </div>
 <br>
 
